@@ -7,7 +7,7 @@ This front-end app is built with HTML, CSS, JavaScript and PaperScript and using
 This game is designed as a fun way to relax pr calm down, or as a way to take a break after staring at the computer for a while.
 
 ## Play the Game
-To play the game, or see it live online, visit: [Zen Bubble Music]
+To play the game, or see it live online, visit: [Zen Bubble Music](https://richardkronick.github.io/ZenBubbleMusic/)
 
 ## License
 The contents of this repository are covered under the [MIT License](https://github.com/udacity/ud777-writing-readmes/blob/master/LICENSE).
